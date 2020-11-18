@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aprendizadocolaborativo/static/css/main.2a002285.chunk.css",
-    "main.js": "/aprendizadocolaborativo/static/js/main.3ac2df94.chunk.js",
-    "main.js.map": "/aprendizadocolaborativo/static/js/main.3ac2df94.chunk.js.map",
+    "main.js": "/aprendizadocolaborativo/static/js/main.16bb81a1.chunk.js",
+    "main.js.map": "/aprendizadocolaborativo/static/js/main.16bb81a1.chunk.js.map",
     "runtime-main.js": "/aprendizadocolaborativo/static/js/runtime-main.9c356f34.js",
     "runtime-main.js.map": "/aprendizadocolaborativo/static/js/runtime-main.9c356f34.js.map",
     "static/js/2.7475573c.chunk.js": "/aprendizadocolaborativo/static/js/2.7475573c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9c356f34.js",
     "static/js/2.7475573c.chunk.js",
     "static/css/main.2a002285.chunk.css",
-    "static/js/main.3ac2df94.chunk.js"
+    "static/js/main.16bb81a1.chunk.js"
   ]
 }
